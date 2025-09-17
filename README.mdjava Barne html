@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Java Burn - Boost Your Metabolism</title>
+
+<!-- Google Tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VQCYW5W9C3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-VQCYW5W9C3');
+</script>
+
+<style>
+body { margin:0; font-family: Arial, sans-serif; background: #f4f4f4; }
+.container { max-width: 900px; margin: 40px auto; background: #fff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);}
+h1 { color: #2E8B57; text-align: center; font-size: 36px; margin-bottom: 10px; }
+h2 { color: #333; font-size: 24px; margin-top: 30px; }
+p { font-size: 18px; color: #555; }
+ul { margin-left: 25px; margin-top: 15px; }
+.cta-button { display: block; width: 100%; text-align: center; padding: 20px 0; background: #FF4500; color: #fff; font-size: 22px; text-decoration: none; border-radius: 10px; margin-top: 30px; font-weight: bold; }
+.cta-button:hover { background: #e03e00; }
+.offer { text-align: center; color: #FF4500; font-weight: bold; font-size: 20px; margin-top: 20px; }
+.feature-box { background: #f0f9f0; padding: 15px 20px; border-radius: 8px; margin-top: 15px; border-left: 5px solid #2E8B57; }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🔥 Transform Your Coffee into a Fat-Burning Machine! 🔥</h1>
+    <p>Struggling with stubborn belly fat, low energy, or slow metabolism? Java Burn is a tasteless, instantly dissolvable formula that works with your morning coffee to naturally accelerate metabolism, boost energy, and promote fat-burning.</p>
+    
+    <h2>Why Java Burn Works:</h2>
+    <div class="feature-box">
+        <ul>
+            <li>Boosts metabolism and fat-burning naturally</li>
+            <li>Supports healthy blood sugar and insulin levels</li>
+            <li>Increases energy and reduces hunger cravings</li>
+            <li>Enhances mental focus and overall well-being</li>
+            <li>100% tasteless and easy to use with your coffee</li>
+        </ul>
+    </div>
+
+    <p class="offer">🚀 Limited Time Launch Offer! Order Now & Save Big! 🚀</p>
+    
+    <a class="cta-button" href="SEU_LINK_DE_AFILIADO" target="_blank" rel="noopener noreferrer">Click Here to Order Java Burn</a>
+</div>
+
+</body>
+</html>
+
